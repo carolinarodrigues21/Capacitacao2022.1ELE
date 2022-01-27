@@ -15,4 +15,4 @@ def confirma(produtos, precos, compras, preco_pago):
 
 Erro = confirma(prateleira,precoPrat,comprados,precoPago)
 
-print("o número de erros foi:" + str(Erro))
+print("o número de erros foi: ", Erro)
